@@ -1,6 +1,10 @@
 @charset "utf-8";
+body{
+    background-color: #e5e9f0;
+}
 a{
-    color: #30321c;
+    color: #2e3440;
+    font-weight: bold;
 }
 .container{
     margin-top: 50px !important;
@@ -11,6 +15,6 @@ a{
 }
 .accordion-button:not(.collapsed){
     font-weight: bold;
-    color: #30321c;
-    background-color: #d4df9e;
+    color: #2e3440;
+    background-color: #d8dee9;
 }
